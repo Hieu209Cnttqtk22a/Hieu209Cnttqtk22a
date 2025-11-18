@@ -80,14 +80,6 @@
 
 ---
 
-### 🐍 Contribution Snake (animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hieu209Cnttqtk22a/Hieu209Cnttqtk22a/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 ### 📬 Contact
 
 <p align="center">
